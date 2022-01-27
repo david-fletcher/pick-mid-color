@@ -11,7 +11,7 @@ An Aseprite extension that chooses the color in-between the current foreground a
 5. Select a foreground and background color that you'd like to average
 6. Select the script from the menu to run it, and your new foreground color should be set to the average of the background and foreground colors!
 
-![](https://media.giphy.com/media/COx75VMOlkYVq5iIrh/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/COx75VMOlkYVq5iIrh/giphy-downsized.gif)
 
 ## Credits
 
